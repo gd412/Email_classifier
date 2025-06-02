@@ -1,0 +1,7 @@
+Flask
+gradio
+pandas
+numpy
+scikit-learn
+nltk
+spacy
